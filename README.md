@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Jehoon Park
 
-<!--
-**Anjusoju/Anjusoju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science major at the University of Minnesota – Twin Cities (UMN).  
+Passionate about software engineering, systems, and building impactful tech.  
+Currently learning more about system architecture, backend development, and debugging techniques.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  About Me
+- Based in Minneapolis, MN  
+- Pursuing B.S. in Computer Science @ UMN Twin Cities  
+- Interests: Web Dev, System Programming, Reverse Engineering, InfoSec  
+- Favorite Tools: VS Code, GDB, Git, Linux  
+- Languages: C, Java, Python, OCaml, JavaScript  
+
+---
+
+## Current Goals
+- Mastering system-level programming (CSCI 2021)  
+- Building developer tools to help others learn code effectively  
+- Open to internship & research opportunities related to backend or systems
+
+---
+
+## Contact
+- ✉️ Email: [your.email@example.com]  
+- 🌐 Portfolio (coming soon)  
+- 📎 LinkedIn / GitHub: [insert your usernames]
+
+---
+
+Thanks for visiting!
+Feel free to connect or collaborate on cool projects!
+
