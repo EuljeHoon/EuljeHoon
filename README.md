@@ -23,9 +23,9 @@ Currently learning more about system architecture, backend development, and debu
 ---
 
 ## Contact
-- ✉️ Email: [your.email@example.com]  
+- ✉️ Email: [nubddak2@gmail.com] 
 - 🌐 Portfolio (coming soon)  
-- 📎 LinkedIn / GitHub: [insert your usernames]
+- 📎 LinkedIn: [www.linkedin.com/in/jehoon0213] / GitHub: [EuljeHoon]
 
 ---
 
