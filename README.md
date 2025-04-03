@@ -24,7 +24,7 @@ Currently learning more about system architecture, backend development, and debu
 
 ## Contact
 - ✉️ Email: [nubddak2@gmail.com] 
-- 🌐 Portfolio (coming soon)  
+- 🌐 Portfolio: https://jehoon-website.vercel.app/  
 - 📎 LinkedIn: [www.linkedin.com/in/jehoon0213] / GitHub: [EuljeHoon]
 
 ---
