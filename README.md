@@ -9,7 +9,7 @@ Currently learning more about system architecture, backend development, and debu
 ##  About Me
 - Based in Minneapolis, MN  
 - Pursuing B.S. in Computer Science @ UMN Twin Cities  
-- Interests: Web Dev, System Programming, Reverse Engineering, InfoSec  
+- Interests: Web Dev, System Programming, Reverse Engineering  
 - Favorite Tools: VS Code, GDB, Git, Linux  
 - Languages: C, Java, Python, OCaml, JavaScript  
 
