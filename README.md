@@ -16,7 +16,7 @@ Currently learning more about system architecture, backend development, and debu
 ---
 
 ## Current Goals
-- Mastering system-level programming (CSCI 2021)  
+- Mastering system-level programming 
 - Building developer tools to help others learn code effectively  
 - Open to internship & research opportunities related to backend or systems
 
