@@ -3,6 +3,8 @@
 </p>
 
 
+
+
 I'm a Computer Science major at the University of Minnesota – Twin Cities (UMN).  
 Passionate about software engineering, systems, and building impactful tech.  
 Currently learning more about system architecture, backend development, and debugging techniques.
