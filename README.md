@@ -7,7 +7,7 @@ I'm a Computer Science major at the University of Minnesota – Twin Cities (UMN
 ### ML Software Engineer Intern at [Lee Group](https://sites.google.com/view/wlee-group/people) @ University of Colorado Denver
 - Helped scientiests figure out the 3D structure of molecules with [POKY](https://sites.google.com/view/pokynmr) software.
 - Utilized AI model(ESMFold, BOLTZ-1, and CHAI-1) to predict the 3D shape of a molecule.
-- Predicted the molecule's fingerprint using the softwar librarieslike CSPred and SHIFTX2.
+- Predicted the molecule's fingerprint using the software libraries such as CSPred and SHIFTX2.
 - Matched the found fingerprint with the massive BMRB database using efficient bi-graph algorithms.
 
 ### Founder @ [Dotori](https://dotori-intro-website.vercel.app/)
