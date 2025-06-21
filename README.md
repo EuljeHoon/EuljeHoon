@@ -27,7 +27,7 @@ The goal is to help students get into their dream colleges by assiting them with
 
 ## Skills
 - Language: Python, Java, C, JavaScript, TypeScript, SQL, Ocaml
-- Framework & Libraries: FastAPI, Spring Boot, React, Next.js(SSR), Express.js
+- Framework & Libraries: FastAPI, PyTorch, Spring Boot, React, Next.js(SSR), Express.js
 - Database: MySQL, MongoDB
 - Cloud & DevOps: GCP, AWS, Github Actions, Vercel, Cloudflare
 - Tools: VS Code, IntelliJ, GDB, Git, Linux
