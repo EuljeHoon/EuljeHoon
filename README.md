@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2000&pause=1000&color=A259FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Jehoon+Park+%F0%9F%91%8B" />
 </p>
 
-I'm a Computer Science major at the University of Minnesota – Twin Cities (UMN), and I'm currently dedicated to building meaningful software that improves lives.
+I'm a Computer Science major at the University of Minnesota – Twin Cities (UMN), dedicated to building meaningful software that improves lives.
 My focus lies in integrating ML/AI into software to maximize productivity and convenience.
 
 ### ML Software Engineer Intern at [Lee Group](https://sites.google.com/view/wlee-group/people) @ University of Colorado Denver
