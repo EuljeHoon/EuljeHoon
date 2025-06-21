@@ -4,6 +4,8 @@
 
 I'm a Computer Science major at the University of Minnesota – Twin Cities (UMN), dedicated to building meaningful software that improves lives. My focus lies in integrating ML/AI into software to maximize productivity and convenience.
 
+## Currently working on...
+
 ### AI/ML Undergraduate Researcher at [Lee Group](https://sites.google.com/view/wlee-group/people) @ University of Colorado Denver
 - Helped scientiests figure out the 3D structure of molecules with [POKY](https://sites.google.com/view/pokynmr) software.
 - Utilized AI model(ESMFold, BOLTZ-1, and CHAI-1) to predict the 3D shape of a molecule.
