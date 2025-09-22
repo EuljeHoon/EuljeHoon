@@ -43,7 +43,7 @@ The goal is to help students get into their dream colleges by assiting them with
 - ✉️ Email: [jehoon.park0@gmail.com] 
 - 🌐 Portfolio: https://jehoon-website.vercel.app/  
 - 📎 LinkedIn: [www.linkedin.com/in/jehoon0213] / GitHub: [EuljeHoon]
-- 📄 Resume: [https://drive.google.com/file/d/1Z0isfby2zLiFjO2xt2OAdoHJA141DxZb/view?usp=sharing]
+- 📄 Resume: [[https://drive.google.com/file/d/1Z0isfby2zLiFjO2xt2OAdoHJA141DxZb/view?usp=sharing](https://drive.google.com/file/d/1e8rrkNu-pKDQDDcwr9QLvKGzzNdr9-W5/view?usp=sharing)]
 ---
 
 Thanks for visiting!
