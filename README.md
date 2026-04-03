@@ -22,7 +22,7 @@ The goal is to help students get into their dream colleges by assiting them with
 ##  About Me
 - Based in Minneapolis, MN  
 - Pursuing B.S. in Computer Science @ UMN Twin Cities  
-- Interests: AI/ML, Web Dev, System Programming, Reverse Engineering  
+- Interests: Web Dev, System Programming, Reverse Engineering  
 ---
 
 ## Skills
@@ -41,9 +41,9 @@ The goal is to help students get into their dream colleges by assiting them with
 
 ## Contact
 - ✉️ Email: [jehoon.park0@gmail.com] 
-- 🌐 Portfolio: https://jehoon-website.vercel.app/  
+- 🌐 Portfolio: [https://jehoon-website.vercel.app/]  
 - 📎 LinkedIn: [www.linkedin.com/in/jehoon0213] / GitHub: [EuljeHoon]
-- 📄 Resume: [[https://drive.google.com/file/d/1Z0isfby2zLiFjO2xt2OAdoHJA141DxZb/view?usp=sharing](https://drive.google.com/file/d/1e8rrkNu-pKDQDDcwr9QLvKGzzNdr9-W5/view?usp=sharing)]
+- 📄 Resume: [[https://drive.google.com/file/d/1zKujUEGQGeRxlPK7hEk4Oa3TaHSj_-sp/view?usp=sharing](https://drive.google.com/file/d/1zKujUEGQGeRxlPK7hEk4Oa3TaHSj_-sp/view?usp=sharing)]
 ---
 
 Thanks for visiting!
