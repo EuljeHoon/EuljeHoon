@@ -6,36 +6,29 @@ I'm a Computer Science major at the University of Minnesota – Twin Cities (UMN
 
 ## Currently working on...
 
-### AI/ML Undergraduate Researcher at [Lee Group](https://sites.google.com/view/wlee-group/people) @ University of Colorado Denver
-- Helped scientiests figure out the 3D structure of molecules with [POKY](https://sites.google.com/view/pokynmr) software.
-- Utilized AI model(ESMFold, BOLTZ-1, and CHAI-1) to predict the 3D shape of a molecule.
-- Predicted the molecule's fingerprint using the software libraries such as CSPred and SHIFTX2.
-- Matched the found fingerprint with the massive BMRB database using efficient bi-graph algorithms.
-
-### Founder @ [Dotori](https://dotori-intro-website.vercel.app/)
-The goal is to help students get into their dream colleges by assiting them with AI along the applicaiton process.
-- Designed and Built a user-friendly UI using Figma and Next.js.
-- Built a robust authentication backend system in Spring Boot using Google Oauth 2.0.
-- Built a CI/CD pipeline with Github Actions to streamline the Integration and Deployment process.
+### AI Engineering Intern at [Bobcat Company](https://www.bobcat.com/na/en/company/about)
+- Contributed to the development of an AI agent that enables service technicians to quickly access equipment information and receive troubleshooting and repair guidance.
+- Developed a Taskfile-based automation workflow to validate AWS Bedrock Guardrails through LLM invocations, testing prompt-injection,  data-leakage, and information exposure scenarios before deployment.
+- Present...
 ---
 
 ##  About Me
 - Based in Minneapolis, MN  
-- Pursuing B.S. in Computer Science @ UMN Twin Cities  
-- Interests: Web Dev, System Programming, Reverse Engineering  
+- Pursuing B.S. in Computer Science @ U of M - Twin Cities  
+- Interests: AI Engineering, Machine Learning, Web Dev, System Programming, Reverse Engineering  
 ---
 
 ## Skills
-- Language: Python, Java, C, JavaScript, TypeScript, SQL, Ocaml
-- Framework & Libraries: FastAPI, PyTorch, Spring Boot, React, Next.js(SSR), Express.js
-- Database: MySQL, MongoDB
-- Cloud & DevOps: GCP, AWS, Github Actions, Vercel, Cloudflare
+- Language: Python, Java, JavaScript, TypeScript, C, C++, SQL, OCaml, HTML, CSS
+- Framework & Libraries: Fast MCP, Django, PyTorch, FastAPI, React, Spring Boot, Next.js(SSR), Express.js
+- Database: Pinecone, MySQL, MongoDB
+- Cloud & DevOps: Databricks, GCP, AWS, Github Actions, Vercel, Cloudflare
 - Tools: VS Code, IntelliJ, GDB, Git, Linux
 
 ## Current Goals
+- Learning Machine Learning concepts
 - Mastering system-level programming 
-- Building developer tools to help others learn code effectively  
-- Open to internship & research opportunities related to backend or systems
+- Open to internship & Co-Op & Research opportunities related to AI/ML and Software engineering
 
 ---
 
@@ -43,7 +36,7 @@ The goal is to help students get into their dream colleges by assiting them with
 - ✉️ Email: [jehoon.park0@gmail.com] 
 - 🌐 Portfolio: [https://jehoon-website.vercel.app/]  
 - 📎 LinkedIn: [www.linkedin.com/in/jehoon0213] / GitHub: [EuljeHoon]
-- 📄 Resume: [[https://drive.google.com/file/d/1zKujUEGQGeRxlPK7hEk4Oa3TaHSj_-sp/view?usp=sharing](https://drive.google.com/file/d/1zKujUEGQGeRxlPK7hEk4Oa3TaHSj_-sp/view?usp=sharing)]
+- 📄 Resume: [[https://drive.google.com/file/d/1Pw4MT62kcMWsB-eIaIhFLy3tT3b5sIAY/view?usp=sharing](https://drive.google.com/file/d/1Pw4MT62kcMWsB-eIaIhFLy3tT3b5sIAY/view?usp=sharing)]
 ---
 
 Thanks for visiting!
