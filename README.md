@@ -36,7 +36,7 @@ I'm a Computer Science major at the University of Minnesota – Twin Cities (UMN
 - ✉️ Email: [jehoon.park0@gmail.com] 
 - 🌐 Portfolio: [https://jehoon-website.vercel.app/]  
 - 📎 LinkedIn: [www.linkedin.com/in/jehoon0213] / GitHub: [EuljeHoon]
-- 📄 Resume: [[https://drive.google.com/file/d/1Pw4MT62kcMWsB-eIaIhFLy3tT3b5sIAY/view?usp=sharing](https://drive.google.com/file/d/1Pw4MT62kcMWsB-eIaIhFLy3tT3b5sIAY/view?usp=sharing)]
+- 📄 Resume: [[https://drive.google.com/file/d/1bPE8laEhNUW4zHN2WFbH1aasfYAbH_Uf/view?usp=sharing](https://drive.google.com/file/d/1bPE8laEhNUW4zHN2WFbH1aasfYAbH_Uf/view?usp=sharing)]
 ---
 
 Thanks for visiting!
