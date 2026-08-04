@@ -7,8 +7,7 @@ I'm a Computer Science major at the University of Minnesota – Twin Cities (UMN
 ## Currently working on...
 
 ### AI Engineering Intern at [Bobcat Company](https://www.bobcat.com/na/en/company/about)
-- Contributed to the development of an AI agent that enables service technicians to quickly access equipment information and receive troubleshooting and repair guidance.
-- Developed a Taskfile-based automation workflow to validate AWS Bedrock Guardrails through LLM invocations, testing prompt-injection,  data-leakage, and information exposure scenarios before deployment.
+Working on the project provides an end-to-end clustering pipeline for organizing 900K+ service manual embeddings into semantic knowledge groups. It supports automated hyperparameter sweeps, HDBSCAN-based clustering, medoid-guided outlier detection, LLM-assisted cluster refinement with human-in-the-loop review, and ARI/AMI-based stability evaluation to improve retrieval quality for Service AI.
 - Present...
 ---
 
@@ -36,7 +35,7 @@ I'm a Computer Science major at the University of Minnesota – Twin Cities (UMN
 - ✉️ Email: [jehoon.park0@gmail.com] 
 - 🌐 Portfolio: [https://jehoon-website.vercel.app/]  
 - 📎 LinkedIn: [www.linkedin.com/in/jehoon0213] / GitHub: [EuljeHoon]
-- 📄 Resume: [[https://drive.google.com/file/d/1bPE8laEhNUW4zHN2WFbH1aasfYAbH_Uf/view?usp=sharing](https://drive.google.com/file/d/1bPE8laEhNUW4zHN2WFbH1aasfYAbH_Uf/view?usp=sharing)]
+- 📄 Resume: [[https://drive.google.com/file/d/1lTVWoh24oOO8Kww8xea9jZcNV3h2xitE/view?usp=sharing](https://drive.google.com/file/d/1lTVWoh24oOO8Kww8xea9jZcNV3h2xitE/view?usp=sharing)]
 ---
 
 Thanks for visiting!
